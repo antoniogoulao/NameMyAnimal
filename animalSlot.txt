@@ -1,0 +1,14 @@
+Type: ANIMALS_LIST
+
+Values:
+dog
+cat
+mouse
+snake
+iguana
+pig
+sheep
+horse
+chicken
+pidgeon
+goat

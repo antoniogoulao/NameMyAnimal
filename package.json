@@ -1,0 +1,22 @@
+{
+  "name": "namemyanimal",
+  "version": "1.0.0",
+  "description": "An Alexa Skill project just4fun where you can ask for suggestions to name your animal or contribute and add the name you chose. This project was built using the [Amazon Alexa Voice Design Guide](https://developer.amazon.com/designing-for-voice/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniogoulao/NameMyAnimal.git"
+  },
+  "author": "antoniomgoulao@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/antoniogoulao/NameMyAnimal/issues"
+  },
+  "homepage": "https://github.com/antoniogoulao/NameMyAnimal#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}

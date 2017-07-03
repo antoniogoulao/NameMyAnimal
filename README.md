@@ -17,7 +17,7 @@ This project was built using the [Amazon Alexa Voice Design Guide](https://devel
 * Sheep
 * Horses
 * Chickens
-* Pidgeons
+* Pigeons
 * Goats
 
 ### Purpose and capabilities
