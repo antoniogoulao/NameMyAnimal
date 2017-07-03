@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/antoniogoulao/NameMyAnimal.git"
   },
-  "author": "antoniomgoulao@gmail.com",
-  "license": "UNLICENSED",
+  "author": "Antonio Goulao <antoniomgoulao@gmail.com>",
+  "licenses": [{
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0"
+  }],
   "bugs": {
     "url": "https://github.com/antoniogoulao/NameMyAnimal/issues"
   },
