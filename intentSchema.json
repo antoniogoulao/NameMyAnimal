@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Animal",
+          "type": "ANIMALS_LIST"
+        }
+      ],
+      "intent": "GetNewNameIntent"
+    },
+    {
+      "intent": "RegisterNewNameIntent"
+    },
+    {
+      "intent": "NameCountIntent"
+    },
+    { 
+      "intent": "AMAZON.HelpIntent" 
+    },
+    { 
+      "intent": "AMAZON.StopIntent" 
+    },
+    { 
+      "intent": "AMAZON.CancelIntent" 
+    }
+  ]
+}
