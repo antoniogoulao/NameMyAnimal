@@ -1,0 +1,7 @@
+GetNewNameIntent get a new name for my {Animal}
+GetNewNameIntent what name should I give my {Animal}
+GetNewNameIntent how should I name my {Animal}
+
+RegisterNewNameIntent register as name
+
+NameCountIntent how many animals have the name
