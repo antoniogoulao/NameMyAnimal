@@ -18,15 +18,15 @@
 
 module.exports = {
 
-	"dog" : ["Bobi"],
-	"cat" : ["Tareco"],
-	"mice" : [],
-	"snake" : [],
-	"iguana" : [],
-	"pig" : [],
-	"sheep" : [],
-	"horse" : [],
-	"chicken" : [],
-	"pigeon" : [],
-	"goat" : []
+	"dog" : ["Bobi", "Bailey", "Max", "Rocky", "Cooper", "Murphy", "Slippers", "Boots", "Puss"],
+	"cat" : ["Tareco", "Oscar", "Muchacho", "Wiskers", "Tiger", "Misty", "Ash", "Jonas"],
+	"mice" : ["Alfie", "Ace", "Wiskers", "Barney", "Sheldon", "Ben"],
+	"snake" : ["Corn ball", "Viper", "Medusa", "Nagini", "Noodles"],
+	"iguana" : ["Ajax", "Burt", "Horace", "Nambia"],
+	"pig" : ["Petunia", "Bacon", "Pinky", "Kosher", "Joe", "Ex"],
+	"sheep" : ["Nanny", "Shaun", "Pan", "Lambert", "Baaaaa"],
+	"horse" : ["Abaccus", "Altivo", "Sage", "Java", "Xenia"],
+	"chicken" : ["Parsley", "Boggle", "Wooble", "Chirp", "Kentucky"],
+	"pigeon" :["Harley", "Getty", "Rio", "Big Al", "Blu"],
+	"goat" : ["Bubbles", "Trouble", "Cookie", "Pickles", "Ringo"]
 };
